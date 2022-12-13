@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+chothuecanho.json
+chothuematbang.json
+chothuephongtro.json
+nhachothue.json
